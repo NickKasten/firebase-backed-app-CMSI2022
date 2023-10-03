@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>90999077363-tqn3o2e89sgi1m5kp5irh1b1320fei6v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.90999077363-tqn3o2e89sgi1m5kp5irh1b1320fei6v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAXON8qv-fukyfqz2nJfuU4GR-FRgrnoQ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>90999077363</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.lmu.KastenSpellsBlog</string>
+	<key>PROJECT_ID</key>
+	<string>kasten-spells-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kasten-spells-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:90999077363:ios:69aefe63aad8d392e57a86</string>
+</dict>
+</plist>
